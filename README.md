@@ -47,4 +47,9 @@ This is a simple weather forecast application built using AngularJS. The applica
 
 Contributions are welcome! Please create a pull request with a detailed description of your changes.
 
+## Screen Shot
+
+![image](https://github.com/user-attachments/assets/a9ebe79c-1396-4577-9a5d-6f1cf8fa86cc)
+
+
 

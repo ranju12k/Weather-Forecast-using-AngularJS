@@ -6,12 +6,11 @@ This is a simple weather forecast application built using AngularJS. The applica
 
 - User can enter a city name.
 - Fetches and displays the current weather details including temperature and weather condition.
-- Simple and responsive UI using Bootstrap.
+- Simple and responsive UI .
 
 ## Technologies Used
 
 - AngularJS
-- Bootstrap 5
 - HTML, CSS
 - JavaScript
 

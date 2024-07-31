@@ -11,7 +11,8 @@ This is a simple weather forecast application built using AngularJS. The applica
 ## Technologies Used
 
 - AngularJS
-- HTML, CSS
+- HTML
+- CSS
 - JavaScript
 
 ## Setup and Installation
